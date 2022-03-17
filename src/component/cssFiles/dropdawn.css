@@ -1,0 +1,27 @@
+.drop-menu{
+    width:100px;
+    position:absolute;
+    top:80px;
+    list-style:none;
+    text-align:start;
+}
+.drop-menu li{
+    background:#1888ff;
+    cursor:pointer;
+}
+.drop-menu li:hover{
+    background:#5cabff;
+}
+.drop-menu.clicked{
+    display:none;
+}
+.dropdawn-link{
+    display:block;
+    font-size:18px;
+    font-weight:bold;
+    height:100%;
+    width:100%;
+    color:#fff;
+    padding: 10px 20px;
+    text-decoration:none;
+}

@@ -1,0 +1,22 @@
+ export const menuElement = [
+     {
+         title:'marketing',
+         path:'/marketing',
+         cName:'dropdawn-link',
+     },
+     {
+        title:'consulting',
+        path:'/consulting',
+        cName:'dropdawn-link',
+    },
+    {
+        title:'design',
+        path:'/design',
+        cName:'dropdawn-link',
+    },
+    {
+        title:'product',
+        path:'/product',
+        cName:'dropdawn-link',
+    },
+ ]
